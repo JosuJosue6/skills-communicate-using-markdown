@@ -15,3 +15,9 @@ class Test (){
 }
 
 ```
+
+### _Adding a task List_
+
+- [X] Say hello to my cat
+- [X] Eat pizza
+- [ ] Domaind the world
